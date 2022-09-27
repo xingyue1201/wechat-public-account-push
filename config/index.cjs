@@ -34,7 +34,7 @@ const USER_CONFIG = {
     // 每日一言
     oneTalk: false,
     // 土味情话(彩虹屁)
-    earthyLoveWords: ture,
+    earthyLoveWords: false,
     // 朋友圈文案
     momentCopyrighting: false,
     // 毒鸡汤
@@ -43,7 +43,7 @@ const USER_CONFIG = {
     poetry: false,
 
     /** 星座运势 */
-    horoscope: ture,
+    horoscope: false,
 
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -61,12 +61,13 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: [
+  USERS: [oxvZ-6S9BsPfjlWlpdt7-ksMXwLM
+
     {
       // 想要发送的人的名字
       name: '小屁孩',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oxvZ-6S9BsPfjlWlpdt7-ksMXwLM
+      id: 
 
 
 ',
