@@ -7,13 +7,13 @@ const USER_CONFIG = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: 'wxbb3756fbf2da2e3b',
+  APP_ID: '
+wxbb3756fbf2da2e3b',
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: '1f856701ae7a5b7770c12b2e10d759a3
-',
+  APP_SECRET: '1f856701ae7a5b7770c12b2e10d759a3',
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -67,13 +67,12 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '小屁孩',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 
+      id: oxvZ-6S9BsPfjlWlpdt7-ksMXwLM
 
 
 ',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: 'xW_rrjZ4c-JjK_21fZwb7LVCM_xMhNRHILhrb6ug1K0
-',
+      useTemplateId: 'xW_rrjZ4c-JjK_21fZwb7LVCM_xMhNRHILhrb6ug1K0',
       // 所在省份
       province: '湖北',
       // 所在城市
@@ -105,7 +104,7 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2022-09-21' },
-        // 认识纪念日
+        // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-17' },
       // 课程表相关配置
       // 如果courseSchedule不存在或者为空（null）则认为没有课程
@@ -221,16 +220,15 @@ const USER_CONFIG = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'xW_rrjZ4c-JjK_21fZwb7LVCM_xMhNRHILhrb6ug1K0
-',
+  CALLBACK_TEMPLATE_ID: '	xW_rrjZ4c-JjK_21fZwb7LVCM_xMhNRHILhrb6ug1K0',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
-  CALLBACK_USERS: [
+  CALLBACK_USERS: [oxvZ-6S9BsPfjlWlpdt7-ksMXwLM
     {
       // 一般都填自己
       name: '自己',
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: oxvZ-6RS3N_2BJrNdLGtYKxjfkds
+      id: oxvZ-6S9BsPfjlWlpdt7-ksMXwLM
 '',
     }
     // 你可以不断按格式往下增加
